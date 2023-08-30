@@ -1,2 +1,6 @@
 console.log("Nova função!");
-console.log("git");
+console.log("Nova função!");
+console.log("Nova função!");
+console.log("Nova função!");
+console.log("Nova função!");
+
